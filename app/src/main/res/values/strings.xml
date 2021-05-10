@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">WiFi Status Logger</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="switch_title">Show pop-ups</string>
+    <string name="switch_summary">Display pop-up on connection change</string>
+    <string name="wifi_on_msg">Wi-Fi Available</string>
+    <string name="wifi_off_msg">Wi-Fi Lost</string>
+
+    <string name="text_first_fragment">Wi-Fi Status</string>
+
+</resources>
